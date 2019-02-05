@@ -1,6 +1,6 @@
-{% set version = "0.2.0" %}
+{% set version = "0.2.1" %}
 {% set name = "intake-avro" %}
-{% set sha256 = "55c5945ce1b5be1bbf252c949dc5cadca596b06531bbd12a70061cb70c1e6df9" %}
+{% set sha256 = "741196488f0bc92b4d269a11f5d8fb502ff93d9eafde98d732ec7cd3a9e0daf3" %}
 
 package:
    name: intake-avro
